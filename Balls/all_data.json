@@ -1,0 +1,3656 @@
+[
+    {
+        "title": "British Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/British_Empire.png?v=6.7"
+    },
+    {
+        "title": "Reichtangle",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Reichtangle.png?v=6.7"
+    },
+    {
+        "title": "Russian Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Russian_Empire.png?v=6.7"
+    },
+    {
+        "title": "Mongol Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mongol_Empire.png?v=6.7"
+    },
+    {
+        "title": "Kalmar Union",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kalmar_Union.png?v=6.7"
+    },
+    {
+        "title": "Roman Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Roman_Empire.png?v=6.7"
+    },
+    {
+        "title": "Papal States",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Papal_States.png?v=6.7"
+    },
+    {
+        "title": "Polish-Lithuanian Commonwealth",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Polish-Lithuanian_Commonwealth.png?v=6.7"
+    },
+    {
+        "title": "Qin Dynasty",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Qin_Dynasty.png?v=6.7"
+    },
+    {
+        "title": "German Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/German_Empire.png?v=6.7"
+    },
+    {
+        "title": "Holy Roman Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Holy_Roman_Empire.png?v=6.7"
+    },
+    {
+        "title": "Austria-Hungary",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Austria-Hungary.png?v=6.7"
+    },
+    {
+        "title": "Hunnic Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Hunnic_Empire.png?v=6.7"
+    },
+    {
+        "title": "Japanese Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Japanese_Empire.png?v=6.7"
+    },
+    {
+        "title": "Republic of China",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Republic_of_China.png?v=6.7"
+    },
+    {
+        "title": "Soviet Union",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Soviet_Union.png?v=6.7"
+    },
+    {
+        "title": "Tokugawa Shogunate",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tokugawa_Shogunate.png?v=6.7"
+    },
+    {
+        "title": "United States",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/United_States.png?v=6.7"
+    },
+    {
+        "title": "Vatican",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Vatican.png?v=6.7"
+    },
+    {
+        "title": "Republic of Texas",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Republic_of_Texas.png?v=6.7"
+    },
+    {
+        "title": "Russia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Russia.png?v=6.7"
+    },
+    {
+        "title": "China",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/China.png?v=6.7"
+    },
+    {
+        "title": "Austrian Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Austrian_Empire.png?v=6.7"
+    },
+    {
+        "title": "Joseon",
+        "rarity": "Unknown",
+        "color_info": [
+            "orange",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Joseon.png?v=6.7"
+    },
+    {
+        "title": "India",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/India.png?v=6.7"
+    },
+    {
+        "title": "Ancient Greece",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ancient_Greece.png?v=6.7"
+    },
+    {
+        "title": "Japan",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Japan.png?v=6.7"
+    },
+    {
+        "title": "Korea",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Korea.png?v=6.7"
+    },
+    {
+        "title": "Napoleonic France",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Napoleonic_France.png?v=6.7"
+    },
+    {
+        "title": "Ottoman Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ottoman_Empire.png?v=6.7"
+    },
+    {
+        "title": "BRICS",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "orange",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "star",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/BRICS.png?v=6.7"
+    },
+    {
+        "title": "Republic of Venice",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Republic_of_Venice.png?v=6.7"
+    },
+    {
+        "title": "South Korea",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/South_Korea.png?v=6.7"
+    },
+    {
+        "title": "France",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/France.png?v=6.7"
+    },
+    {
+        "title": "Spanish Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Spanish_Empire.png?v=6.7"
+    },
+    {
+        "title": "Sweden-Norway",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdoms_of_Sweden_and_Norway.png?v=6.7"
+    },
+    {
+        "title": "Achaemenid Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Achaemenid_Empire.png?v=6.7"
+    },
+    {
+        "title": "Macedon",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Macedon.png?v=6.7"
+    },
+    {
+        "title": "United Kingdom",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdom.png?v=6.7"
+    },
+    {
+        "title": "Empire of Brazil",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Empire_of_Brazil.png?v=6.7"
+    },
+    {
+        "title": "Pakistan",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Pakistan.png?v=6.7"
+    },
+    {
+        "title": "Ancient Egypt",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ancient_Egypt.png?v=6.7"
+    },
+    {
+        "title": "Brazil",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Brazil.png?v=6.7"
+    },
+    {
+        "title": "Byzantium",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Byzantium.png?v=6.7"
+    },
+    {
+        "title": "Greenland",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Greenland.png?v=6.7"
+    },
+    {
+        "title": "Portuguese Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Portuguese_Empire.png?v=6.7"
+    },
+    {
+        "title": "Qing",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Qing.png?v=6.7"
+    },
+    {
+        "title": "British Raj",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/British_Raj.png?v=6.7"
+    },
+    {
+        "title": "Carthage",
+        "rarity": "Unknown",
+        "color_info": [
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Carthage.png?v=6.7"
+    },
+    {
+        "title": "Italy",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Italy.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Italy",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Italy.png?v=6.7"
+    },
+    {
+        "title": "Third French Republic",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Third_French_Republic.png?v=6.7"
+    },
+    {
+        "title": "Egypt",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Egypt.png?v=6.7"
+    },
+    {
+        "title": "Russian SFSR",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Russian_Soviet_Federative_Socialist_Republic.png?v=6.7"
+    },
+    {
+        "title": "Turkey",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Turkey.png?v=6.7"
+    },
+    {
+        "title": "French Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/French_Empire.png?v=6.7"
+    },
+    {
+        "title": "Iran",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Iran.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Greece",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Greece.png?v=6.7"
+    },
+    {
+        "title": "Konbaung Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Konbaung_Empire.png?v=6.7"
+    },
+    {
+        "title": "North German Confederation",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/North_German_Confederation.png?v=6.7"
+    },
+    {
+        "title": "African Union",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/African_Union.png?v=6.7"
+    },
+    {
+        "title": "Arab League",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Arab_League.png?v=6.7"
+    },
+    {
+        "title": "Confederate States",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Confederate_States.png?v=6.7"
+    },
+    {
+        "title": "Gaul",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Gaul.png?v=6.7"
+    },
+    {
+        "title": "Germania",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Germania.png?v=6.7"
+    },
+    {
+        "title": "Indonesia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Indonesia.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Hungary",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Hungary.png?v=6.7"
+    },
+    {
+        "title": "Mayan Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mayan_Empire.png?v=6.7"
+    },
+    {
+        "title": "Yugoslavia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Yugoslavia.png?v=6.7"
+    },
+    {
+        "title": "Germany",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Germany.png?v=6.7"
+    },
+    {
+        "title": "Australia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Australia.png?v=6.7"
+    },
+    {
+        "title": "Hong Kong",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Hong_Kong.png?v=6.7"
+    },
+    {
+        "title": "Israel",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Israel.png?v=6.7"
+    },
+    {
+        "title": "Xiongnu",
+        "rarity": "Unknown",
+        "color_info": [
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Xiongnu.png?v=6.7"
+    },
+    {
+        "title": "Swedish Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Swedish_Empire.png?v=6.7"
+    },
+    {
+        "title": "Spain",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Spain.png?v=6.7"
+    },
+    {
+        "title": "Antarctica",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Antarctica.png?v=6.7"
+    },
+    {
+        "title": "Ming Dynasty",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ming_Dynasty.png?v=6.7"
+    },
+    {
+        "title": "Saudi Arabia",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Saudi_Arabia.png?v=6.7"
+    },
+    {
+        "title": "Franks",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Franks.png?v=6.7"
+    },
+    {
+        "title": "League of Nations",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/League_of_Nations.png?v=6.7"
+    },
+    {
+        "title": "Monaco",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Monaco.png?v=6.7"
+    },
+    {
+        "title": "Union of South Africa",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "orange",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Union_of_South_Africa.png?v=6.7"
+    },
+    {
+        "title": "Ukraine",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ukraine.png?v=6.7"
+    },
+    {
+        "title": "Canada",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Canada.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Two Sicilies",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Two_Sicilies.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Brandenburg",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Brandenburg.png?v=6.7"
+    },
+    {
+        "title": "Poland",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Poland.png?v=6.7"
+    },
+    {
+        "title": "Sweden",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Sweden.png?v=6.7"
+    },
+    {
+        "title": "Macau",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Macau.png?v=6.7"
+    },
+    {
+        "title": "Scotland",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Scotland.png?v=6.7"
+    },
+    {
+        "title": "South Africa",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/South_Africa.png?v=6.7"
+    },
+    {
+        "title": "Greece",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Greece.png?v=6.7"
+    },
+    {
+        "title": "Safavid Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "yellow",
+            "crow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Safavid_Empire.png?v=6.7"
+    },
+    {
+        "title": "Vietnam",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Vietnam.png?v=6.7"
+    },
+    {
+        "title": "Parthian Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Parthian_Empire.png?v=6.7"
+    },
+    {
+        "title": "Thailand",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Thailand.png?v=6.7"
+    },
+    {
+        "title": "North Korea",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/North_Korea.png?v=6.7"
+    },
+    {
+        "title": "England",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/England.png?v=6.7"
+    },
+    {
+        "title": "European Union",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/European_Union.png?v=6.7"
+    },
+    {
+        "title": "Francoist Spain",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Francoist_Spain.png?v=6.7"
+    },
+    {
+        "title": "Manchukuo",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Manchukuo.png?v=6.7"
+    },
+    {
+        "title": "NATO",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/NATO.png?v=6.7"
+    },
+    {
+        "title": "Republican Spain",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Republican_Spain.png?v=6.7"
+    },
+    {
+        "title": "United Arab Republic",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/United_Arab_Republic.png?v=6.7"
+    },
+    {
+        "title": "United Nations",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/United_Nations.png?v=6.7"
+    },
+    {
+        "title": "Warsaw Pact",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "gold",
+            "green",
+            "red",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Warsaw_Pact.png?v=6.7"
+    },
+    {
+        "title": "Weimar Republic",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Weimar_Republic.png?v=6.7"
+    },
+    {
+        "title": "Zhou",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Zhou.png?v=6.7"
+    },
+    {
+        "title": "Argentine Confederation",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Argentine_Confederation.png?v=6.7"
+    },
+    {
+        "title": "ASEAN",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/ASEAN.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Hawaii",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Hawaii.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Bali",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Bali.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Bora Bora",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Bora_Bora.png?v=6.7"
+    },
+    {
+        "title": "Yuan Dynasty",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Yuan_Dynasty.png?v=6.7"
+    },
+    {
+        "title": "Bavaria",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bavaria.png?v=6.7"
+    },
+    {
+        "title": "Algeria",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Algeria.png?v=6.7"
+    },
+    {
+        "title": "Argentina",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Argentina.png?v=6.7"
+    },
+    {
+        "title": "Bangladesh",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bangladesh.png?v=6.7"
+    },
+    {
+        "title": "Colombia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Colombia.png?v=6.7"
+    },
+    {
+        "title": "Czechia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Czechia.png?v=6.7"
+    },
+    {
+        "title": "Iraq",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Iraq.png?v=6.7"
+    },
+    {
+        "title": "Malaysia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Malaysia.png?v=6.7"
+    },
+    {
+        "title": "Mexico",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mexico.png?v=6.7"
+    },
+    {
+        "title": "Myanmar",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Myanmar.png?v=6.7"
+    },
+    {
+        "title": "Netherlands",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Netherlands.png?v=6.7"
+    },
+    {
+        "title": "Nigeria",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Nigeria.png?v=6.7"
+    },
+    {
+        "title": "Norway",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Norway.png?v=6.7"
+    },
+    {
+        "title": "Peru",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Peru.png?v=6.7"
+    },
+    {
+        "title": "Philippines",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Philippines.png?v=6.7"
+    },
+    {
+        "title": "Portugal",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Portugal.png?v=6.7"
+    },
+    {
+        "title": "Prussia",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Prussia.png?v=6.7"
+    },
+    {
+        "title": "Romania",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Romania.png?v=6.7"
+    },
+    {
+        "title": "Singapore",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Singapore.png?v=6.7"
+    },
+    {
+        "title": "Switzerland",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Switzerland.png?v=6.7"
+    },
+    {
+        "title": "Syria",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Syria.png?v=6.7"
+    },
+    {
+        "title": "Tuvalu",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tuvalu.png?v=6.7"
+    },
+    {
+        "title": "United Arab Emirates",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/UAE.png?v=6.7"
+    },
+    {
+        "title": "Venezuela",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Venezuela.png?v=6.7"
+    },
+    {
+        "title": "Mali Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mali_Empire.png?v=6.7"
+    },
+    {
+        "title": "Ukrainian SSR",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ukrainian_Soviet_Socialist_Republic.png?v=6.7"
+    },
+    {
+        "title": "Federal Republic of Central America",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Federal_Republic_of_Central_America.png?v=6.7"
+    },
+    {
+        "title": "Ancient Athens",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "orange",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ancient_Athens.png?v=6.7"
+    },
+    {
+        "title": "Ancient Sparta",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ancient_Sparta.png?v=6.7"
+    },
+    {
+        "title": "Babylon",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Babylon.png?v=6.7"
+    },
+    {
+        "title": "Czechoslovakia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Czechoslovakia.png?v=6.7"
+    },
+    {
+        "title": "Ethiopian Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ethiopian_Empire.png?v=6.7"
+    },
+    {
+        "title": "French Indochina",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/French_Indochina.png?v=6.7"
+    },
+    {
+        "title": "Nauru",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Nauru.png?v=6.7"
+    },
+    {
+        "title": "Numidia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Numidia.png?v=6.7"
+    },
+    {
+        "title": "Quebec",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Quebec.png?v=6.7"
+    },
+    {
+        "title": "Siam",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Siam.png?v=6.7"
+    },
+    {
+        "title": "South Vietnam",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/South_Vietnam.png?v=6.7"
+    },
+    {
+        "title": "Taiwan",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Taiwan.png?v=6.7"
+    },
+    {
+        "title": "Wales",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Wales.png?v=6.7"
+    },
+    {
+        "title": "West Germany",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/West_Germany.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Egypt",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Egypt.png?v=6.7"
+    },
+    {
+        "title": "Mughal Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mughal_Empire.png?v=6.7"
+    },
+    {
+        "title": "Angola",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Angola.png?v=6.7"
+    },
+    {
+        "title": "Austria",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Austria.png?v=6.7"
+    },
+    {
+        "title": "Azerbaijan",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Azerbaijan.png?v=6.7"
+    },
+    {
+        "title": "Bahamas",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bahamas.png?v=6.7"
+    },
+    {
+        "title": "Belarus",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Belarus.png?v=6.7"
+    },
+    {
+        "title": "Belgium",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Belgium.png?v=6.7"
+    },
+    {
+        "title": "Bolivia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bolivia.png?v=6.7"
+    },
+    {
+        "title": "Bulgaria",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bulgaria.png?v=6.7"
+    },
+    {
+        "title": "Chile",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Chile.png?v=6.7"
+    },
+    {
+        "title": "Croatia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Croatia.png?v=6.7"
+    },
+    {
+        "title": "Cuba",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cuba.png?v=6.7"
+    },
+    {
+        "title": "Cyprus",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cyprus.png?v=6.7"
+    },
+    {
+        "title": "Denmark",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Denmark.png?v=6.7"
+    },
+    {
+        "title": "DR Congo",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/DR_Congo.png?v=6.7"
+    },
+    {
+        "title": "Ecuador",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ecuador.png?v=6.7"
+    },
+    {
+        "title": "Ethiopia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ethiopia.png?v=6.7"
+    },
+    {
+        "title": "Finland",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Finland.png?v=6.7"
+    },
+    {
+        "title": "Hungary",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Hungary.png?v=6.7"
+    },
+    {
+        "title": "Iberian Union",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Iberian_Union.png?v=6.7"
+    },
+    {
+        "title": "Jordan",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Jordan.png?v=6.7"
+    },
+    {
+        "title": "Kazakhstan",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kazakhstan.png?v=6.7"
+    },
+    {
+        "title": "Kenya",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kenya.png?v=6.7"
+    },
+    {
+        "title": "Kuwait",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kuwait.png?v=6.7"
+    },
+    {
+        "title": "Libya",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Libya.png?v=6.7"
+    },
+    {
+        "title": "Morocco",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Morocco.png?v=6.7"
+    },
+    {
+        "title": "North Vietnam",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/North_Vietnam.png?v=6.7"
+    },
+    {
+        "title": "Oman",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Oman.png?v=6.7"
+    },
+    {
+        "title": "Qatar",
+        "rarity": "Unknown",
+        "color_info": [
+            "purple",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Qatar.png?v=6.7"
+    },
+    {
+        "title": "San Marino",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/San_Marino.png?v=6.7"
+    },
+    {
+        "title": "Serbia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Serbia.png?v=6.7"
+    },
+    {
+        "title": "Slovakia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Slovakia.png?v=6.7"
+    },
+    {
+        "title": "Sri Lanka",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Sri_Lanka.png?v=6.7"
+    },
+    {
+        "title": "Sudan",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Sudan.png?v=6.7"
+    },
+    {
+        "title": "Tunisia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tunisia.png?v=6.7"
+    },
+    {
+        "title": "Turkmenistan",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Turkmenistan.png?v=6.7"
+    },
+    {
+        "title": "Uzbekistan",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Uzbekistan.png?v=6.7"
+    },
+    {
+        "title": "Yemen",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Yemen.png?v=6.7"
+    },
+    {
+        "title": "Republic of New Granada",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Republic_of_New_Granada.png?v=6.7"
+    },
+    {
+        "title": "Faroe Islands",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Faroe_Islands.png?v=6.7"
+    },
+    {
+        "title": "Trinidad and Tobago",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Trinidad_and_Tobago.png?v=6.7"
+    },
+    {
+        "title": "Orange Free State",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "orange",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Orange_Free_State.png?v=6.7"
+    },
+    {
+        "title": "East Germany",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/East_Germany.png?v=6.7"
+    },
+    {
+        "title": "Emirate of Nejd",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Emirate_of_Nejd.png?v=6.7"
+    },
+    {
+        "title": "Free France",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Free_France.png?v=6.7"
+    },
+    {
+        "title": "Golden Horde",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Golden_Horde.png?v=6.7"
+    },
+    {
+        "title": "Jamaica",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Jamaica.png?v=6.7"
+    },
+    {
+        "title": "Maldives",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "moon"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Maldives.png?v=6.7"
+    },
+    {
+        "title": "Ireland",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Northern_Ireland.png?v=6.7"
+    },
+    {
+        "title": "Tibet",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tibet.png?v=6.7"
+    },
+    {
+        "title": "Vichy France",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Vichy_France.png?v=6.7"
+    },
+    {
+        "title": "Andorra",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Andorra.png?v=6.7"
+    },
+    {
+        "title": "Brunei",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Brunei.png?v=6.7"
+    },
+    {
+        "title": "Byelorussian SSR",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Byelorussian_Soviet_Socialist_Republic.png?v=6.7"
+    },
+    {
+        "title": "Grand Duchy of Tuscany",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Grand_Duchy_of_Tuscany.png?v=6.7"
+    },
+    {
+        "title": "Khedivate of Egypt",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Khedivate_of_Egypt.png?v=6.7"
+    },
+    {
+        "title": "Micronesia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Micronesia.png?v=6.7"
+    },
+    {
+        "title": "Tonga",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tonga.png?v=6.7"
+    },
+    {
+        "title": "Khmer Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Khmer_Empire.png?v=6.7"
+    },
+    {
+        "title": "Barbados",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Barbados.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Saxony",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Saxony.png?v=6.7"
+    },
+    {
+        "title": "Marshall Islands",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "orange",
+            "white",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Marshall_Islands.png?v=6.7"
+    },
+    {
+        "title": "Armenia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "orange",
+            "red"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Armenia.png?v=6.7"
+    },
+    {
+        "title": "Bahrain",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bahrain.png?v=6.7"
+    },
+    {
+        "title": "Cambodia",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cambodia.png?v=6.7"
+    },
+    {
+        "title": "Chad",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Chad.png?v=6.7"
+    },
+    {
+        "title": "Congo Free State",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Congo_Free_State.png?v=6.7"
+    },
+    {
+        "title": "Equatorial Guinea",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Equatorial_Guinea.png?v=6.7"
+    },
+    {
+        "title": "Fatimid Caliphate",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Fatimid_Caliphate.png?v=6.7"
+    },
+    {
+        "title": "Georgia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Georgia.png?v=6.7"
+    },
+    {
+        "title": "Ghana",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ghana.png?v=6.7"
+    },
+    {
+        "title": "Guatemala",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "white",
+            "yellow",
+            "crow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Guatemala.png?v=6.7"
+    },
+    {
+        "title": "Guyana",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Guyana.png?v=6.7"
+    },
+    {
+        "title": "Ireland",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ireland.png?v=6.7"
+    },
+    {
+        "title": "Kyrgyzstan",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kyrgyzstan.png?v=6.7"
+    },
+    {
+        "title": "Latvia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Latvia.png?v=6.7"
+    },
+    {
+        "title": "Lithuania",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Lithuania.png?v=6.7"
+    },
+    {
+        "title": "Mali",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mali.png?v=6.7"
+    },
+    {
+        "title": "Malta",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Malta.png?v=6.7"
+    },
+    {
+        "title": "Mongolia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mongolia.png?v=6.7"
+    },
+    {
+        "title": "New Zealand",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/New_Zealand.png?v=6.7"
+    },
+    {
+        "title": "Samoa",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Samoa.png?v=6.7"
+    },
+    {
+        "title": "Slovenia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Slovenia.png?v=6.7"
+    },
+    {
+        "title": "Togo",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Togo.png?v=6.7"
+    },
+    {
+        "title": "Uganda",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Uganda.png?v=6.7"
+    },
+    {
+        "title": "Uruguay",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Uruguay.png?v=6.7"
+    },
+    {
+        "title": "Zambia",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "orange",
+            "red",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Zambia.png?v=6.7"
+    },
+    {
+        "title": "Zimbabwe",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Zimbabwe.png?v=6.7"
+    },
+    {
+        "title": "Duchy of Limburg",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Duchy_of_Limburg.png?v=6.7"
+    },
+    {
+        "title": "Malawi",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Malawi.png?v=6.7"
+    },
+    {
+        "title": "Kingdom of Sardinia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Sardinia.png?v=6.7"
+    },
+    {
+        "title": "Rashidi Emirate",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Rashidi_Emirate.png?v=6.7"
+    },
+    {
+        "title": "Costa Rica",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Costa_Rica.png?v=6.7"
+    },
+    {
+        "title": "Dominica",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Dominica.png?v=6.7"
+    },
+    {
+        "title": "Guinea-Bissau",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Guinea-Bissau.png?v=6.7"
+    },
+    {
+        "title": "Sao Tome and Principe",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Sao_Tome_and_Principe.png?v=6.7"
+    },
+    {
+        "title": "Tannu Tuva",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tannu_Tuva.png?v=6.7"
+    },
+    {
+        "title": "Free City of Frankfurt",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Free_City_of_Frankfurt.png?v=6.7"
+    },
+    {
+        "title": "Seychelles",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Seychelles.png?v=6.7"
+    },
+    {
+        "title": "Afghanistan",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Afghanistan.png?v=6.7"
+    },
+    {
+        "title": "Albania",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Albania.png?v=6.7"
+    },
+    {
+        "title": "Belize",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Belize.png?v=6.7"
+    },
+    {
+        "title": "Bosnia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bosnia_and_Herzegovina.png?v=6.7"
+    },
+    {
+        "title": "Botswana",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Botswana.png?v=6.7"
+    },
+    {
+        "title": "Cameroon",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cameroon.png?v=6.7"
+    },
+    {
+        "title": "Ceylon",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Ceylon.png?v=6.7"
+    },
+    {
+        "title": "Congo",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Congo.png?v=6.7"
+    },
+    {
+        "title": "Ivory Coast",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cote_d'Ivoire.png?v=6.7"
+    },
+    {
+        "title": "Dominican Republic",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Dominican_Republic.png?v=6.7"
+    },
+    {
+        "title": "Eritrea",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Eritrea.png?v=6.7"
+    },
+    {
+        "title": "Estonia",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Estonia.png?v=6.7"
+    },
+    {
+        "title": "Eswatini",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Eswatini.png?v=6.7"
+    },
+    {
+        "title": "Fiji",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Fiji.png?v=6.7"
+    },
+    {
+        "title": "Danzig",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Free_City_of_Danzig.png?v=6.7"
+    },
+    {
+        "title": "Gambia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Gambia.png?v=6.7"
+    },
+    {
+        "title": "Haiti",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Haiti.png?v=6.7"
+    },
+    {
+        "title": "Honduras",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Honduras.png?v=6.7"
+    },
+    {
+        "title": "Khiva",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Khiva.png?v=6.7"
+    },
+    {
+        "title": "Laos",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Laos.png?v=6.7"
+    },
+    {
+        "title": "Lebanon",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Lebanon.png?v=6.7"
+    },
+    {
+        "title": "Liechtenstein",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Liechtenstein.png?v=6.7"
+    },
+    {
+        "title": "Moldova",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Moldova.png?v=6.7"
+    },
+    {
+        "title": "Mossi Kingdoms",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mossi_Kingdoms.png?v=6.7"
+    },
+    {
+        "title": "Mozambique",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mozambique.png?v=6.7"
+    },
+    {
+        "title": "Nepal",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "moon",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Nepal.png?v=6.7"
+    },
+    {
+        "title": "Nicaragua",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Nicaragua.png?v=6.7"
+    },
+    {
+        "title": "Niger",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Niger.png?v=6.7"
+    },
+    {
+        "title": "Palestine",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Palestine.png?v=6.7"
+    },
+    {
+        "title": "Paraguay",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Paraguay.png?v=6.7"
+    },
+    {
+        "title": "Saint Kitts and Nevis",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Saint_Kitts_and_Nevis.png?v=6.7"
+    },
+    {
+        "title": "St Lucia",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Saint_Lucia.png?v=6.7"
+    },
+    {
+        "title": "Somaliland",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "star",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Somaliland.png?v=6.7"
+    },
+    {
+        "title": "South Sudan",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/South_Sudan.png?v=6.7"
+    },
+    {
+        "title": "South Yemen",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/South_Yemen.png?v=6.7"
+    },
+    {
+        "title": "Tajikistan",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tajikistan.png?v=6.7"
+    },
+    {
+        "title": "Tanzania",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Tanzania.png?v=6.7"
+    },
+    {
+        "title": "Western Sahara",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Western_Sahara.png?v=6.7"
+    },
+    {
+        "title": "Peru-Bolivian Confederation",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "star",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Peru-Bolivian_Confederation.png?v=6.7"
+    },
+    {
+        "title": "Cape Verde",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Cape_Verde.png?v=6.7"
+    },
+    {
+        "title": "Grenada",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Grenada.png?v=6.7"
+    },
+    {
+        "title": "Guinea",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Guinea.png?v=6.7"
+    },
+    {
+        "title": "Palau",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Palau.png?v=6.7"
+    },
+    {
+        "title": "Solomon Islands",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Solomon_Islands.png?v=6.7"
+    },
+    {
+        "title": "St Vincent and the Grenadines",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/St_Vincent_and_the_Grenadines.png?v=6.7"
+    },
+    {
+        "title": "Vanuatu",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Vanuatu.png?v=6.7"
+    },
+    {
+        "title": "Principality of Moldavia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Principality_of_Moldavia.png?v=6.7"
+    },
+    {
+        "title": "Qajar Dynasty",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "orange",
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Qajar_Dynasty.png?v=6.7"
+    },
+    {
+        "title": "Antigua and Barbuda",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Antigua_and_Barbuda.png?v=6.7"
+    },
+    {
+        "title": "Benin",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Benin.png?v=6.7"
+    },
+    {
+        "title": "Bhutan",
+        "rarity": "Unknown",
+        "color_info": [
+            "orange",
+            "white",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Bhutan.png?v=6.7"
+    },
+    {
+        "title": "Burkina Faso",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Burkina_Faso.png?v=6.7"
+    },
+    {
+        "title": "Burundi",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Burundi.png?v=6.7"
+    },
+    {
+        "title": "Central African Republic",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Central_African_Republic.png?v=6.7"
+    },
+    {
+        "title": "Comoros",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Comoros.png?v=6.7"
+    },
+    {
+        "title": "El Salvador",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/El_Salvador.png?v=6.7"
+    },
+    {
+        "title": "Gabon",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Gabon.png?v=6.7"
+    },
+    {
+        "title": "Hejaz",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Hejaz.png?v=6.7"
+    },
+    {
+        "title": "Iceland",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Iceland.png?v=6.7"
+    },
+    {
+        "title": "Kiribati",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kiribati.png?v=6.7"
+    },
+    {
+        "title": "Kosovo",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Kosovo.png?v=6.7"
+    },
+    {
+        "title": "Lesotho",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "blue",
+            "green",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Lesotho.png?v=6.7"
+    },
+    {
+        "title": "Liberia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Liberia.png?v=6.7"
+    },
+    {
+        "title": "Luxembourg",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Luxembourg.png?v=6.7"
+    },
+    {
+        "title": "Madagascar",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Madagascar.png?v=6.7"
+    },
+    {
+        "title": "Majapahit",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Majapahit.png?v=6.7"
+    },
+    {
+        "title": "Mauritania",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "moon",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mauritania.png?v=6.7"
+    },
+    {
+        "title": "Mauritius",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Mauritius.png?v=6.7"
+    },
+    {
+        "title": "Montenegro",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "yellow",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Montenegro.png?v=6.7"
+    },
+    {
+        "title": "Namibia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Namibia.png?v=6.7"
+    },
+    {
+        "title": "Nanda Empire",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "orange",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Nanda_Empire.png?v=6.7"
+    },
+    {
+        "title": "Macedonia",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/North_Macedonia.png?v=6.7"
+    },
+    {
+        "title": "Panama",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Panama.png?v=6.7"
+    },
+    {
+        "title": "Papua New Guinea",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow",
+            "crow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Papua_New_Guinea.png?v=6.7"
+    },
+    {
+        "title": "Paris Commune",
+        "rarity": "Unknown",
+        "color_info": [
+            "red",
+            "white",
+            "text"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Paris_Commune.png?v=6.7"
+    },
+    {
+        "title": "Rwanda",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "yellow",
+            "sun"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Rwanda.png?v=6.7"
+    },
+    {
+        "title": "Senegal",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Senegal.png?v=6.7"
+    },
+    {
+        "title": "Sierra Leone",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "white"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Sierra_Leone.png?v=6.7"
+    },
+    {
+        "title": "Somalia",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Somalia.png?v=6.7"
+    },
+    {
+        "title": "Suriname",
+        "rarity": "Unknown",
+        "color_info": [
+            "green",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Suriname.png?v=6.7"
+    },
+    {
+        "title": "East Timor",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "yellow",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Timor-Leste.png?v=6.7"
+    },
+    {
+        "title": "Dahomey",
+        "rarity": "Unknown",
+        "color_info": [
+            "black",
+            "red",
+            "white",
+            "crow"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Dahomey.png?v=6.7"
+    },
+    {
+        "title": "Djibouti",
+        "rarity": "Unknown",
+        "color_info": [
+            "blue",
+            "green",
+            "red",
+            "white",
+            "star"
+        ],
+        "image_url": "https://ballsdexutilities.app/flag_images/Djibouti.png?v=6.7"
+    }
+]
