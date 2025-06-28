@@ -1,0 +1,1 @@
+Arts are not mine, they belong to the BallsDex team and their artists at https://discord.gg/ballsdex
