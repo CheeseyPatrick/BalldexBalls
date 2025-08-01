@@ -2,13 +2,14 @@
     "title": "Warsaw Pact",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "gold",
-        "green",
-        "red",
-        "white",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
         "text"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Warsaw_Pact.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Warsaw_Pact.png?v=8.0"
 }

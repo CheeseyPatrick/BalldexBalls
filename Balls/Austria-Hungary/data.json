@@ -2,10 +2,13 @@
     "title": "Austria-Hungary",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Austria-Hungary.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Austria-Hungary.png?v=8.0"
 }

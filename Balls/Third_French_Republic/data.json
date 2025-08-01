@@ -2,11 +2,13 @@
     "title": "Third French Republic",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
-        "text"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "text",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Third_French_Republic.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Third_French_Republic.png?v=8.0"
 }

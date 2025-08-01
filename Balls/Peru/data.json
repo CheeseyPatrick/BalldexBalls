@@ -2,8 +2,10 @@
     "title": "Peru",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Peru.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Peru.png?v=8.0"
 }

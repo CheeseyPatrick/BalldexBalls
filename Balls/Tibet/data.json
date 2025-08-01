@@ -2,13 +2,14 @@
     "title": "Tibet",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow",
-        "sun"
+        "sun",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Tibet.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Tibet.png?v=8.0"
 }

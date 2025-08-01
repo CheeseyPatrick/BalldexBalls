@@ -2,9 +2,10 @@
     "title": "Romania",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Romania.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Romania.png?v=8.0"
 }

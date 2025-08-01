@@ -2,11 +2,13 @@
     "title": "Guinea-Bissau",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "green",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Guinea-Bissau.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Guinea-Bissau.png?v=8.0"
 }

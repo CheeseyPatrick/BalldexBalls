@@ -2,10 +2,11 @@
     "title": "Venezuela",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Venezuela.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Venezuela.png?v=8.0"
 }

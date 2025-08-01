@@ -2,11 +2,12 @@
     "title": "East Timor",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "red",
-        "white",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Timor-Leste.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Timor-Leste.png?v=8.0"
 }

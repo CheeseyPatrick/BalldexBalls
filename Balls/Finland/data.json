@@ -2,8 +2,10 @@
     "title": "Finland",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white"
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Finland.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Finland.png?v=8.0"
 }

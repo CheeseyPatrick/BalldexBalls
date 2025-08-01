@@ -2,10 +2,12 @@
     "title": "Moldova",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Moldova.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Moldova.png?v=8.0"
 }

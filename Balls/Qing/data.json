@@ -2,11 +2,12 @@
     "title": "Qing",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Qing.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Qing.png?v=8.0"
 }

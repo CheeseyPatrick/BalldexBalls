@@ -2,10 +2,12 @@
     "title": "Kenya",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "green",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Kenya.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Kenya.png?v=8.0"
 }

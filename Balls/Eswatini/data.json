@@ -2,11 +2,13 @@
     "title": "Eswatini",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Eswatini.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Eswatini.png?v=8.0"
 }

@@ -2,11 +2,14 @@
     "title": "Tuvalu",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "xmark",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Tuvalu.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Tuvalu.png?v=8.0"
 }

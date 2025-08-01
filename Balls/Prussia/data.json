@@ -2,9 +2,11 @@
     "title": "Prussia",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "white",
-        "crow"
+        "droplet",
+        "droplet",
+        "crow",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Prussia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Prussia.png?v=8.0"
 }

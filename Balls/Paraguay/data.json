@@ -2,12 +2,13 @@
     "title": "Paraguay",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow",
-        "text"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "text",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Paraguay.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Paraguay.png?v=8.0"
 }

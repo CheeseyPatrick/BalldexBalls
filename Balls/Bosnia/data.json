@@ -2,11 +2,13 @@
     "title": "Bosnia",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "xmark",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Bosnia_and_Herzegovina.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Bosnia_and_Herzegovina.png?v=8.0"
 }

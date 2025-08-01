@@ -2,11 +2,12 @@
     "title": "Ghana",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "green",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Ghana.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Ghana.png?v=8.0"
 }

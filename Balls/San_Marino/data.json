@@ -2,11 +2,13 @@
     "title": "San Marino",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "white",
-        "yellow",
-        "text"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "text",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/San_Marino.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/San_Marino.png?v=8.0"
 }

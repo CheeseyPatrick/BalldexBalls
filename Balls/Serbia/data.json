@@ -2,11 +2,13 @@
     "title": "Serbia",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Serbia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Serbia.png?v=8.0"
 }

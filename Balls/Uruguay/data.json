@@ -2,10 +2,11 @@
     "title": "Uruguay",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white",
-        "yellow",
-        "sun"
+        "droplet",
+        "droplet",
+        "droplet",
+        "sun",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Uruguay.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Uruguay.png?v=8.0"
 }

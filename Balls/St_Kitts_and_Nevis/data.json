@@ -1,14 +1,15 @@
 {
-    "title": "Sao Tome and Principe",
+    "title": "St Kitts and Nevis",
     "rarity": "Unknown",
     "color_info": [
         "droplet",
         "droplet",
         "droplet",
         "droplet",
+        "droplet",
         "star",
-        "grip-lines",
+        "xmark",
         "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Sao_Tome_and_Principe.png?v=8.0"
+    "image_url": "https://ballsdexutilities.app/flag_images/Saint_Kitts_and_Nevis.png?v=8.0"
 }

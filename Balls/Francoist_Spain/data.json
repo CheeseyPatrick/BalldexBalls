@@ -2,13 +2,15 @@
     "title": "Francoist Spain",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Francoist_Spain.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Francoist_Spain.png?v=8.0"
 }

@@ -2,10 +2,11 @@
     "title": "Argentina",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white",
-        "yellow",
-        "sun"
+        "droplet",
+        "droplet",
+        "droplet",
+        "sun",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Argentina.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Argentina.png?v=8.0"
 }

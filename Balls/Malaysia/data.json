@@ -2,12 +2,13 @@
     "title": "Malaysia",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "moon",
-        "star"
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Malaysia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Malaysia.png?v=8.0"
 }

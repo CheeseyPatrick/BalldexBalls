@@ -2,10 +2,12 @@
     "title": "DR Congo",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "xmark",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/DR_Congo.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/DR_Congo.png?v=8.0"
 }

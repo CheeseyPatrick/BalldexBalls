@@ -2,16 +2,18 @@
     "title": "BRICS",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "green",
-        "orange",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow",
         "star",
-        "text"
+        "text",
+        "xmark",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/BRICS.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/BRICS.png?v=8.0"
 }

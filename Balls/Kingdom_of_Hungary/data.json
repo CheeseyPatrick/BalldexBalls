@@ -2,9 +2,11 @@
     "title": "Kingdom of Hungary",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Hungary.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Hungary.png?v=8.0"
 }

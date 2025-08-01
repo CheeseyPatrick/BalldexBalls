@@ -2,12 +2,14 @@
     "title": "Iberian Union",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "shield-halved",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Iberian_Union.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Iberian_Union.png?v=8.0"
 }

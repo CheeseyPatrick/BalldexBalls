@@ -2,11 +2,14 @@
     "title": "Dominican Republic",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Dominican_Republic.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Dominican_Republic.png?v=8.0"
 }

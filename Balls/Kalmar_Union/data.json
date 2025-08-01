@@ -2,8 +2,10 @@
     "title": "Kalmar Union",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Kalmar_Union.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Kalmar_Union.png?v=8.0"
 }

@@ -2,12 +2,13 @@
     "title": "Guatemala",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow",
-        "text"
+        "text",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Guatemala.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Guatemala.png?v=8.0"
 }

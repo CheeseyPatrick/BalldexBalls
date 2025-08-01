@@ -2,10 +2,11 @@
     "title": "Burkina Faso",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Burkina_Faso.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Burkina_Faso.png?v=8.0"
 }

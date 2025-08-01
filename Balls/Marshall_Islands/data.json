@@ -2,10 +2,11 @@
     "title": "Marshall Islands",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "orange",
-        "white",
-        "sun"
+        "droplet",
+        "droplet",
+        "droplet",
+        "sun",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Marshall_Islands.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Marshall_Islands.png?v=8.0"
 }

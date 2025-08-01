@@ -2,14 +2,17 @@
     "title": "Equatorial Guinea",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
         "star",
-        "text"
+        "text",
+        "grip-lines",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Equatorial_Guinea.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Equatorial_Guinea.png?v=8.0"
 }

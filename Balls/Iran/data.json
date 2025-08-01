@@ -2,10 +2,11 @@
     "title": "Iran",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "white",
-        "text"
+        "droplet",
+        "droplet",
+        "droplet",
+        "text",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Iran.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Iran.png?v=8.0"
 }

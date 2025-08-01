@@ -2,11 +2,13 @@
     "title": "Federal Republic of Central America",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "green",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Federal_Republic_of_Central_America.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Federal_Republic_of_Central_America.png?v=8.0"
 }

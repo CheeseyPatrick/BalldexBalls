@@ -2,11 +2,12 @@
     "title": "Azerbaijan",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
+        "droplet",
+        "droplet",
+        "droplet",
         "moon",
-        "star"
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Azerbaijan.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Azerbaijan.png?v=8.0"
 }

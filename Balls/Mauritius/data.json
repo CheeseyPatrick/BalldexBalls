@@ -2,10 +2,11 @@
     "title": "Mauritius",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Mauritius.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Mauritius.png?v=8.0"
 }

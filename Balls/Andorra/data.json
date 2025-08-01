@@ -2,10 +2,11 @@
     "title": "Andorra",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "yellow",
-        "text"
+        "droplet",
+        "droplet",
+        "droplet",
+        "text",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Andorra.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Andorra.png?v=8.0"
 }

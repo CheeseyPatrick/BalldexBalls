@@ -2,11 +2,13 @@
     "title": "Philippines",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow",
-        "sun"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "sun",
+        "grip-lines",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Philippines.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Philippines.png?v=8.0"
 }

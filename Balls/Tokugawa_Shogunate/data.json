@@ -2,9 +2,10 @@
     "title": "Tokugawa Shogunate",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "white",
-        "crow"
+        "droplet",
+        "droplet",
+        "crow",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Tokugawa_Shogunate.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Tokugawa_Shogunate.png?v=8.0"
 }

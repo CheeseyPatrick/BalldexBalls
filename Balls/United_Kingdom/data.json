@@ -2,9 +2,12 @@
     "title": "United Kingdom",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "xmark",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdom.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdom.png?v=8.0"
 }

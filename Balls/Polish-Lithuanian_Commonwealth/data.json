@@ -2,9 +2,11 @@
     "title": "Polish-Lithuanian Commonwealth",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Polish-Lithuanian_Commonwealth.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Polish-Lithuanian_Commonwealth.png?v=8.0"
 }

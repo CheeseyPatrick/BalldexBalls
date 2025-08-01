@@ -2,9 +2,11 @@
     "title": "Slovakia",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Slovakia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Slovakia.png?v=8.0"
 }

@@ -2,8 +2,9 @@
     "title": "Scotland",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white"
+        "droplet",
+        "droplet",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Scotland.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Scotland.png?v=8.0"
 }

@@ -2,10 +2,12 @@
     "title": "Sweden-Norway",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdoms_of_Sweden_and_Norway.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/United_Kingdoms_of_Sweden_and_Norway.png?v=8.0"
 }

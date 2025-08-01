@@ -2,11 +2,12 @@
     "title": "Algeria",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "white",
+        "droplet",
+        "droplet",
+        "droplet",
         "moon",
-        "star"
+        "star",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Algeria.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Algeria.png?v=8.0"
 }

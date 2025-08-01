@@ -2,9 +2,11 @@
     "title": "Vatican",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Vatican.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Vatican.png?v=8.0"
 }

@@ -2,11 +2,12 @@
     "title": "Qajar Dynasty",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "orange",
-        "red",
-        "white",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Qajar_Dynasty.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Qajar_Dynasty.png?v=8.0"
 }

@@ -2,9 +2,11 @@
     "title": "Kingdom of Greece",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Greece.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Greece.png?v=8.0"
 }

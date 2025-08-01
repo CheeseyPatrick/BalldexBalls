@@ -2,10 +2,11 @@
     "title": "Mughal Empire",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Mughal_Empire.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Mughal_Empire.png?v=8.0"
 }

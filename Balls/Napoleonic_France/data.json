@@ -2,9 +2,10 @@
     "title": "Napoleonic France",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Napoleonic_France.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Napoleonic_France.png?v=8.0"
 }

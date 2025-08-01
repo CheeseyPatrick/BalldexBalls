@@ -2,9 +2,11 @@
     "title": "Byzantium",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "yellow",
-        "text"
+        "droplet",
+        "droplet",
+        "text",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Byzantium.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Byzantium.png?v=8.0"
 }

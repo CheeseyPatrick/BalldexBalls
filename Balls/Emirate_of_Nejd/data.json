@@ -2,9 +2,10 @@
     "title": "Emirate of Nejd",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "white",
-        "text"
+        "droplet",
+        "droplet",
+        "text",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Emirate_of_Nejd.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Emirate_of_Nejd.png?v=8.0"
 }

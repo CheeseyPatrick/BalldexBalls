@@ -2,12 +2,15 @@
     "title": "South Africa",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "xmark",
+        "grip-lines",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/South_Africa.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/South_Africa.png?v=8.0"
 }

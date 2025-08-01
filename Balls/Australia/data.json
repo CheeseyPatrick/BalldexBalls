@@ -2,10 +2,13 @@
     "title": "Australia",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "xmark",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Australia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Australia.png?v=8.0"
 }

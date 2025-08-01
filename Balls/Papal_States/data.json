@@ -2,8 +2,9 @@
     "title": "Papal States",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Papal_States.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Papal_States.png?v=8.0"
 }

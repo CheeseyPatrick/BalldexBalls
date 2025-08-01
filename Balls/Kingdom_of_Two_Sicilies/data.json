@@ -2,11 +2,12 @@
     "title": "Kingdom of Two Sicilies",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Two_Sicilies.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Kingdom_of_Two_Sicilies.png?v=8.0"
 }

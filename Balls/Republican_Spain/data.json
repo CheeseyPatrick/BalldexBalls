@@ -2,12 +2,14 @@
     "title": "Republican Spain",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "purple",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "shield-halved",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Republican_Spain.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Republican_Spain.png?v=8.0"
 }

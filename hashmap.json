@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "created": "2025-06-28T23:27:25.140Z",
+    "created": "2025-08-01T20:27:42.950Z",
     "total_entries": 338,
     "hash_types": [
       "ahash_8",
@@ -326,9 +326,9 @@
       "phash_16": "292d2724d6d6cd98d9d8d8d9265b9253326733329a926d65272d2c956d6cc96c"
     },
     "Croatia": {
-      "ahash_8": "0000083e1e2c5d00",
-      "dhash_12": "00000000003001411e1420ae50e244040000",
-      "phash_16": "3f2c6908e1e39466ce975a579c48c48b33433b3593b595ace56865924cf6cc6c"
+      "ahash_8": "001f76fb7f0f7023",
+      "dhash_12": "00002602515b0950372553275a552115d1b2",
+      "phash_16": "806a394e5f69b00074efc8f6e48745f4542bae94e6d796f2f512c4ab4ae0d706"
     },
     "Cuba": {
       "ahash_8": "00003c3e0f3e3f18",
@@ -354,11 +354,6 @@
       "ahash_8": "00185a7e5e5c5c0c",
       "dhash_12": "00003805c37b36e5ae37653666627662c61c",
       "phash_16": "0a0f678ad7cb0a8d603ca5f8b8fcd4f4be0f62b1873f31e656a0d8906271935c"
-    },
-    "Danzig": {
-      "ahash_8": "000e4ce7617a2220",
-      "dhash_12": "0000002341324293021946143325143241a8",
-      "phash_16": "84b32ec29b61ccccf5367c047b645e796036da8ce7b39398d33321cc7a91398c"
     },
     "Denmark": {
       "ahash_8": "0000787a7a7a3a20",
@@ -505,6 +500,11 @@
       "dhash_12": "0000281c012828800c02601610d210220281",
       "phash_16": "2b6bcad078d4b585ca5a6dacb496a5a837d1326b954b09298c6c4e78cdb64e96"
     },
+    "Free_City_of_Danzig": {
+      "ahash_8": "000e4ce7617a2220",
+      "dhash_12": "0000002341324293021946143325143241a8",
+      "phash_16": "84b32ec29b61ccccf5367c047b645e796036da8ce7b39398d33321cc7a91398c"
+    },
     "Free_City_of_Frankfurt": {
       "ahash_8": "0018021c1c2c4c3e",
       "dhash_12": "02005005401201211406d1291940940856b9",
@@ -556,9 +556,9 @@
       "phash_16": "2291766a9772e89cffa5855ad245853a486f97a76c6b1aa029dd3b555a952252"
     },
     "German_Empire": {
-      "ahash_8": "08080c1e2e1e3e26",
-      "dhash_12": "0000200b00942310bb09209a03203b25610a",
-      "phash_16": "2db464b4d2425a49e56d3c7667879931e1c0ce6e39c36e3d98f1171c0ae2f398"
+      "ahash_8": "00423c6010013470",
+      "dhash_12": "00038d14a1ce3192c92615306bc52c396058",
+      "phash_16": "0b470b26f4fcd4b437783b7bc70b858466f56a451b2516b4dad369206924c7ce"
     },
     "Ghana": {
       "ahash_8": "002022643d641600",
@@ -676,9 +676,9 @@
       "phash_16": "2798da66de610d9ac877378c61c93692658d325bb626cc619d36c36d8658c9b6"
     },
     "Ireland": {
-      "ahash_8": "00001c3a3e3e0c00",
-      "dhash_12": "00000000009c11405e09e0be08e008000000",
-      "phash_16": "3630d86678cf2738cdcc78cf8c9d8c633672726cd3c6c98c670d26327672d8c2"
+      "ahash_8": "001e1e1e1c193e4e",
+      "dhash_12": "01003e07e17f06f0de27e07d07b167311296",
+      "phash_16": "8002db9c7ffd6a63b611a6bc917f35c55988ac412a73e63e2aac59b9f5415094"
     },
     "Israel": {
       "ahash_8": "003f777f7f637e1e",
@@ -761,14 +761,14 @@
       "phash_16": "0d9f2d9e7c4c5d4ef16edd3c71e4d16cd2d0d2f1938072c29069604e8e5e1798"
     },
     "Kingdom_of_Brandenburg": {
-      "ahash_8": "0808187f7f005301",
-      "dhash_12": "010030010010049411007506c9140a091183",
-      "phash_16": "0928e25438a9d52be3d44eac171dec97e6b416ee0753e904dab2c96d6a937c54"
+      "ahash_8": "047f7870f1ebef00",
+      "dhash_12": "01801a6b36fa17452e358db32e3cb3fc25a0",
+      "phash_16": "a06813980bfc7f6c1b406440f9a4376e2e5856daffc4f30cd18170c217ffb71a"
     },
     "Kingdom_of_Egypt": {
-      "ahash_8": "000000181c3e3c00",
-      "dhash_12": "0000000000000200b802e0260e600c000000",
-      "phash_16": "25a32c64dadcc99b196336652596c8d8e4713336d36c96ccdcdb4932d927266c"
+      "ahash_8": "0000615c1e3f5e1c",
+      "dhash_12": "00000040050150c60c403329113291242000",
+      "phash_16": "2ed2984ed3c71a5cda6c75b4d92c653a64b276927272724f274861cdc3c560ec"
     },
     "Kingdom_of_Greece": {
       "ahash_8": "00081c363e3e7e7e",
@@ -1046,9 +1046,9 @@
       "phash_16": "2ac495aad4bf6642e364d627b75b9a95994a6988a4b5635ac9a52f31964b4a74"
     },
     "NATO": {
-      "ahash_8": "003e5a7b141d1900",
-      "dhash_12": "01002c01e26b3431db28909d03c059038008",
-      "phash_16": "8968de181e96c0f161661e06626731fcf3db3c85c9298e3c939393c06dcef8f2"
+      "ahash_8": "0062226b5c5e083c",
+      "dhash_12": "0000842810826850f12551ab1c936b0aa0b8",
+      "phash_16": "a0aa601ecd5c3ff07fc387c0f2a1034ee2678d9c4fdf9c45a312383bb118e476"
     },
     "Nauru": {
       "ahash_8": "0000387e743f777f",
@@ -1151,14 +1151,14 @@
       "phash_16": "20bd251cdf1e92fc36e199e85b606480e49a6ed26e5ece739277cc3c4d3850b2"
     },
     "Papua_New_Guinea": {
-      "ahash_8": "000018362e100202",
-      "dhash_12": "00000000001801c082116045064023142000",
-      "phash_16": "1c96dbc873399320c7236cc73cd6934d99c925b73984d692663dcc66cc6ae18c"
+      "ahash_8": "0000183c1e0e0600",
+      "dhash_12": "0000000000a804811502c04a20200c030000",
+      "phash_16": "0e54ca7671cd252acb38f4a59c299a4f719732d8669cc79925b23164da578c76"
     },
     "Paraguay": {
-      "ahash_8": "003c7f693e42160a",
-      "dhash_12": "0001081b83bd5f314726705f7a744f05600c",
-      "phash_16": "822da4367c527b88689c63d87169b064f1a591be7bd81b4291a6ce264be7cf66"
+      "ahash_8": "0000505e477a7a32",
+      "dhash_12": "0000000001d02ea5ea4776772de4724e20d8",
+      "phash_16": "070d66c4b9b25b1acd91b31c5a54fd32716a5c54b09ef2e8f272c4a6278e5c56"
     },
     "Paris_Commune": {
       "ahash_8": "0018383868797c7c",
@@ -1256,9 +1256,9 @@
       "phash_16": "2e88cd0af154d4e4d36ada4389532d8d8f532d2f3dbb32d0f6ad2a14c497991a"
     },
     "Republic_of_China": {
-      "ahash_8": "000800083c7c1e38",
-      "dhash_12": "0000000100100000180c418404c02a129011",
-      "phash_16": "29af32c8d650c57558cb5acb2db192b4d36a69316fb696cb68c82d0497b740ba"
+      "ahash_8": "00083e3e223c3c3d",
+      "dhash_12": "00000003014613f0960722e40ca0ca0a90f9",
+      "phash_16": "0bad3ecaf472ad24d119d2db2fe342bd0f1b0ce120e21c2dc89c7b52b373c64a"
     },
     "Republic_of_New_Granada": {
       "ahash_8": "000010203f190f09",
@@ -1310,11 +1310,6 @@
       "dhash_12": "0000030250770fc0d42760b60fa0ba2e6030",
       "phash_16": "0ac13cbcf11ad3d6c7e3e6031c3c6c6920eb19b07b0fa3ee7c30661bcee04a72"
     },
-    "Saint_Kitts_and_Nevis": {
-      "ahash_8": "00087c3c7efb0902",
-      "dhash_12": "0000181a411c03c08648a5165946ad119083",
-      "phash_16": "27229cd0766bb31aed14527a99dd60c335b4ccd2d696adc94b0cd339636ccb22"
-    },
     "Samoa": {
       "ahash_8": "0000083e3e3e1c00",
       "dhash_12": "0000000000300c404608e0ae01602c000000",
@@ -1341,9 +1336,9 @@
       "phash_16": "028383829b2e3e5e6459e060ec7814f81f6e4da1ecb26cdd3add3712df8dd928"
     },
     "Senegal": {
-      "ahash_8": "0006173868787c38",
-      "dhash_12": "00000400506a11901c19c55c574078058040",
-      "phash_16": "2a1d3ae6d578d14a1ddbc69be1261f70da25e0cd2edcf89281da1b4b32618726"
+      "ahash_8": "00000408787e3e18",
+      "dhash_12": "00000c00400e01601f15965e30f10f0cc040",
+      "phash_16": "26263332d4c9264c4e66dcd8cacc4d9acdbab1b31bb2db366866cd6793272618"
     },
     "Serbia": {
       "ahash_8": "000c3e3e767a696c",
@@ -1431,14 +1426,19 @@
       "phash_16": "2622d39cd9956662cc9cd13cd2db392cc8dc6cdb6185b2789b6533db244b2cb2"
     },
     "Spanish_Empire": {
-      "ahash_8": "00002a131e3e2b3e",
-      "dhash_12": "00001001811624813646e0ab1511bb0d5016",
-      "phash_16": "0a8af95aed57d2a0d2bb1dc0935968954bca0d47ec35c53a35e8d21b64d653cc"
+      "ahash_8": "001e3d3e7f5b7c00",
+      "dhash_12": "00000c02702b03b12612b2a913726a060000",
+      "phash_16": "817e794a5f80e4aece738272d8679708f4f29a1ee0f12ccd63610b3f25878d26"
     },
     "Sri_Lanka": {
       "ahash_8": "001e3e787870181c",
       "dhash_12": "00001c0ee19a27b3bb55502f23b1391aa000",
       "phash_16": "22f5ade2dd0ada1c78ad2358c2b0cf4bc95727a5270b33372ce464d7349858da"
+    },
+    "St_Kitts_and_Nevis": {
+      "ahash_8": "00087c3c7efb0902",
+      "dhash_12": "0000181a411c03c08648a5165946ad119083",
+      "phash_16": "27229cd0766bb31aed14527a99dd60c335b4ccd2d696adc94b0cd339636ccb22"
     },
     "St_Lucia": {
       "ahash_8": "0000001c3c3c3c00",
@@ -1446,9 +1446,9 @@
       "phash_16": "3de32d6ad218d69588d6de31252f2967321136b8ccee36914892c94fb36ec9cc"
     },
     "St_Vincent_and_the_Grenadines": {
-      "ahash_8": "00000c1c1e2e1e00",
-      "dhash_12": "00000000009803800c00c0a60a6006018000",
-      "phash_16": "2d1ade74d2e5218b8b56d4353188cbc7243c7918d6652526699bb6cd964ccdb6"
+      "ahash_8": "001c3d7f7b5e6d02",
+      "dhash_12": "00001c01d05e02b42a63170d34552d0aa010",
+      "phash_16": "08da7326dde9665bc926d1a8c4c8e334da672f5acce4d33866c34b14c463b7c8"
     },
     "Sudan": {
       "ahash_8": "0000183c3e1e0001",
@@ -1501,9 +1501,9 @@
       "phash_16": "2f5b3198d0a6ca6762652599cd9bdb19b36724666cc521b331b89398d2d26e6c"
     },
     "Tanzania": {
-      "ahash_8": "000202023e321018",
-      "dhash_12": "00000000200200001213a02a0aa052012000",
-      "phash_16": "29ac38e4d6dac6db396583cd2421293492d6b65b2da969a44e67c3d09b19b3e6"
+      "ahash_8": "00002408352f2a77",
+      "dhash_12": "0800801401881000301240c129b093656150",
+      "phash_16": "33e6c89c6a3a3f049da1f15be0bd254e8ed2172049cdb0f5ec3bfe4f132303c0"
     },
     "Thailand": {
       "ahash_8": "00183c7a3e22733f",
@@ -1526,9 +1526,9 @@
       "phash_16": "a66e7ce259a5832e6898cd9879f38f22cc6d973733627c6c6d805998c667248a"
     },
     "Tokugawa_Shogunate": {
-      "ahash_8": "007c73000f7d423f",
-      "dhash_12": "0000104022314c91a518920a30c281041052",
-      "phash_16": "02a8c35c0f9ac5e6f412cb60d2e31d2a7be536e47847291f09cb37796f8e34b0"
+      "ahash_8": "083e4f232a7f141d",
+      "dhash_12": "01002c11b2b554859129544528506e31941a",
+      "phash_16": "82a0fd18195f669a4e2aa14cdc25f0fef85766ec60e9878467a4cc9acd93326e"
     },
     "Tonga": {
       "ahash_8": "0002001c3e1c0800",

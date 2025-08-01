@@ -2,9 +2,11 @@
     "title": "Norway",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Norway.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Norway.png?v=8.0"
 }

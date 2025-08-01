@@ -2,9 +2,11 @@
     "title": "Oman",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "white"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Oman.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Oman.png?v=8.0"
 }

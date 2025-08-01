@@ -2,9 +2,11 @@
     "title": "Benin",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Benin.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Benin.png?v=8.0"
 }

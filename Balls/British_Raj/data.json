@@ -2,10 +2,13 @@
     "title": "British Raj",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "xmark",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/British_Raj.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/British_Raj.png?v=8.0"
 }

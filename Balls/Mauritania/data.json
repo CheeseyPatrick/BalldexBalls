@@ -2,11 +2,12 @@
     "title": "Mauritania",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
         "moon",
-        "star"
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Mauritania.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Mauritania.png?v=8.0"
 }

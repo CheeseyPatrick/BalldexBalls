@@ -2,12 +2,14 @@
     "title": "Papua New Guinea",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow",
-        "star"
+        "star",
+        "xmark",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Papua_New_Guinea.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Papua_New_Guinea.png?v=8.0"
 }

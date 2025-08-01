@@ -2,11 +2,12 @@
     "title": "Seychelles",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "green",
-        "red",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Seychelles.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Seychelles.png?v=8.0"
 }

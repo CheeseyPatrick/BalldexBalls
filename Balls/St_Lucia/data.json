@@ -2,10 +2,11 @@
     "title": "St Lucia",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "blue",
-        "white",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "play"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Saint_Lucia.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Saint_Lucia.png?v=8.0"
 }

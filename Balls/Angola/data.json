@@ -2,10 +2,11 @@
     "title": "Angola",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Angola.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Angola.png?v=8.0"
 }

@@ -2,13 +2,15 @@
     "title": "Dominica",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "green",
-        "red",
-        "white",
-        "yellow",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
+        "droplet",
         "crow",
-        "star"
+        "star",
+        "grip-lines",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Dominica.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Dominica.png?v=8.0"
 }

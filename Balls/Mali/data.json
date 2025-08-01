@@ -2,9 +2,10 @@
     "title": "Mali",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Mali.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Mali.png?v=8.0"
 }

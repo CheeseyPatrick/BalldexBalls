@@ -2,9 +2,10 @@
     "title": "Jamaica",
     "rarity": "Unknown",
     "color_info": [
-        "black",
-        "green",
-        "yellow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "xmark"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Jamaica.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Jamaica.png?v=8.0"
 }

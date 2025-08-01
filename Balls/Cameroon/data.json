@@ -2,10 +2,11 @@
     "title": "Cameroon",
     "rarity": "Unknown",
     "color_info": [
-        "green",
-        "red",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines-vertical"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Cameroon.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Cameroon.png?v=8.0"
 }

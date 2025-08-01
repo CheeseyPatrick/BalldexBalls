@@ -2,10 +2,11 @@
     "title": "Free City of Frankfurt",
     "rarity": "Unknown",
     "color_info": [
-        "red",
-        "white",
-        "yellow",
-        "crow"
+        "droplet",
+        "droplet",
+        "droplet",
+        "crow",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Free_City_of_Frankfurt.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Free_City_of_Frankfurt.png?v=8.0"
 }

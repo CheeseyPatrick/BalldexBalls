@@ -2,10 +2,11 @@
     "title": "Nauru",
     "rarity": "Unknown",
     "color_info": [
-        "blue",
-        "white",
-        "yellow",
-        "star"
+        "droplet",
+        "droplet",
+        "droplet",
+        "star",
+        "grip-lines"
     ],
-    "image_url": "https://ballsdexutilities.app/flag_images/Nauru.png?v=6.7"
+    "image_url": "https://ballsdexutilities.app/flag_images/Nauru.png?v=8.0"
 }
